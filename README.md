@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Alexandre Rodrigues Alves 👋
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E65F7&width=435&lines=Desenvolvedor+Full-Stack;Estudante+de+ADS;Entusiasta+de+Tecnologia" alt="Typing SVG" />

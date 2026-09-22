@@ -33,8 +33,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrerodriguesalves&theme=tokyonight" alt="Detalhes do Perfil" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=alexandrerodriguesalves&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrerodriguesalves&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
